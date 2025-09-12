@@ -1,2 +1,2 @@
 # JavaScript
-A hotel management website to book hotels based on price and even we can even add guests here.
+A train booking website made from html,css,javascript where we can book trains and see their timings for arrival or departure.
